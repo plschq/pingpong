@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="pingpong:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pingpong_jar</output-path>
+    <root id="root">
+      <element id="archive" name="pingpong.jar">
+        <element id="module-output" name="pingpong" />
+      </element>
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:18" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:18" />
+    </root>
+  </artifact>
+</component>
